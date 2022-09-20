@@ -20,3 +20,7 @@ simpleintrest.c++
 vectorclass.c++
 
 voting
+
+bill
+
+marks
